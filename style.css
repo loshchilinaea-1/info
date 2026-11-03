@@ -29,14 +29,15 @@ h2 {
 .custom-menu-table {
     width: 90%
     max-width: 500px
-    margin: 20px auto 40px auto
+    margin-left: 100px
+    margin-bottom: 30px
 }
 .custom-menu-table td {
     padding: 8px 15px
     font-size: 20px
 }
 .custom-menu-table td:first-child {
-    text-align: left
+    width: 300px
 }
 .custom-menu-table td:last-child {
     text-align: right
