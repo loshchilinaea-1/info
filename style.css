@@ -27,14 +27,14 @@ h2 {
     line-height: 1.5;
 }
 .custom-menu-table {
-    width: 100%
-    max-width: 500px
-    margin-left: 500px
-    margin-bottom: 30px
+    width: 100%;
+    max-width: 500px;
+    margin-left: 500px;
+    margin-bottom: 30px;
 }
 .custom-menu-table td {
-    padding: 8px 15px
-    font-size: 20px
+    padding: 8px 15px;
+    font-size: 20px;
 }
 .custom-menu-table td:first-child {
     width: 300px
