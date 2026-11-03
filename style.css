@@ -40,5 +40,5 @@ h2 {
     width: 300px
 }
 .custom-menu-table td:last-child {
-    margin-left: 500px
+    text-align: right
 }
