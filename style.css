@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(211,187,168)
+}
+nav {
+    background-color: rgb(211,187,168)
+}
+ol {
+    margin-left: 100px;
+    font-size: 20px;
+}
+p {
+    margin-left: 299px;
+    font-size: 45px;
+    color: rgb(111,78,55);
+    font-style: italic
+}
+h2 {
+    color: rgb(111,78,55);
+    font-weight: 500;
+    font-size: 50px;
+    margin-left: 600px;
+}
+.list-group-flush {
+    list-style-type:circle !important;
+    padding-left: 500px !important;
+}
+.list-group-item {
+    display: list-item !important;
+    font-size: 24px;
+    padding: 10px 15px;
+    line-height: 1.5;
+}
