@@ -20,13 +20,24 @@ h2 {
     font-size: 50px;
     margin-left: 600px;
 }
-.list-group-flush {
-    list-style-type:circle !important;
-    padding-left: 500px !important;
-}
 .list-group-item {
     display: list-item !important;
     font-size: 24px;
     padding: 10px 15px;
     line-height: 1.5;
+}
+.custom-menu-table {
+    width: 100%
+    max-width: 500px
+    margin: 0 auto 30px auto
+}
+.custom-menu-table td {
+    padding: 8px 15px
+    font-size: 20px
+}
+.custom-menu-table td:first-child {
+    text-align: left
+}
+.custom-menu-table td:last-child {
+    text-align: right
 }
